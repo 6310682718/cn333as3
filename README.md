@@ -20,5 +20,5 @@
 <li>Pongsakorn Parsoppornpiboon 6310682718</li>
   
 ### Clip Demo
-<li><a href="https://youtu.be/aGQ5iCsLcsg">Link to clip demo</a></li>
+<li><a href="https://youtu.be/EoSHeeiCxkY">Demo video</a></li>
 
