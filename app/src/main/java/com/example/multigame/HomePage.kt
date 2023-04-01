@@ -27,7 +27,7 @@ fun HomePage(navController: NavController, modifier: Modifier = Modifier) {
     )
     {
         Text(
-            text = "Multiple Game Play naja",
+            text = "Multiple Game Play naja 🎮",
             fontSize = 54.sp,
             fontWeight = FontWeight.Bold,
             modifier = Modifier
@@ -35,7 +35,7 @@ fun HomePage(navController: NavController, modifier: Modifier = Modifier) {
         )
         Button(
             shape = RoundedCornerShape(23.dp),
-            colors = ButtonDefaults.buttonColors(backgroundColor = Color.Green),
+            colors = ButtonDefaults.buttonColors(backgroundColor = Color.LightGray),
             modifier = modifier
                 .fillMaxWidth()
                 .padding(all = 12.dp),
