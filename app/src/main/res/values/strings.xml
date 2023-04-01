@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MultiGame</string>
+    <string name="instructions">Choose the correct answer.</string>
+    <string name="skip">Skip</string>
+    <string name="submit">Submit</string>
+    <string name="score">Your score: %d</string>
+    <string name="quiz_count">Question: %d of 10 </string>
+    <string name="result">RESULT</string>
+    <string name="you_scored">"%d / 10"</string>
+    <string name="exit">Exit</string>
+    <string name="title_game">Try to guess the number I\'m thinking of from 1 - 1,000!</string>
+    <string name="input_guess">Your Guess</string>
+    <string name="guess_output">Hint: It\'s %s</string>
+    <string name="alert_answer">%s</string>
+    <string name="try_again">TRY AGAIN</string>
+    <string name="placeholder">Your Guess</string>
+</resources>
